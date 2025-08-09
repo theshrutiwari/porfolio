@@ -14,7 +14,7 @@
 body {
   color: #333;
   line-height: 1.6;
-  background: #938d43;
+  background: #f6f1b5;
 }
 
 /* Section Headings */
@@ -50,7 +50,7 @@ body {
   align-items: flex-start;
   gap: 15px;
   margin-bottom: 15px;
-  background: #7a7837;
+  background: #d6e1d6;
   padding: 10px;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.05);
